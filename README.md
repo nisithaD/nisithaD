@@ -1,6 +1,6 @@
 # Hola!:wave: Nisitha Dayarathna.:blush:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nisithaD)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nisithaD-ma&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisithaD)](https://github.com/anuraghazra/github-readme-stats)
 
