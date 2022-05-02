@@ -10,6 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/nisithasd/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/nish_s___d/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.facebook.com/NSDayarathna" title="Instagram Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
 </h5>
 <br>
 <p align="center">
