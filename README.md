@@ -14,12 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nisitha Dayarathna, Undergraduate and Full stack web developer from Sri Lanka!
-  <br>
-  <br>
-  🔬 I'm currently studying for a BSc degree in Computer Science
-  <br>
-  🎓 Coventry University
+  Hi, I'm Nisitha Dayarathna.
   <br>
   📫 How to reach me: <a href="mailto:nisitha56190@gmail.com">nisitha56190@gmail.com</a>
 </p>
