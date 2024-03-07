@@ -16,5 +16,5 @@
 <p align="center">
   Hi, I'm Nisitha Dayarathna.
   <br>
-  📫 How to reach me: <a href="mailto:nisitha56190@gmail.com">nisitha56190@gmail.com</a>
+  📫 <a href="mailto:nisitha56190@gmail.com">nisitha56190@gmail.com</a>
 </p>
